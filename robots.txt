@@ -1,2 +1,5 @@
 User-Agent: *
 Allow: /
+
+Sitemap:https://www.dharmveerjakhar.com/sitemap.xml
+
